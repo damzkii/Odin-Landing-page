@@ -65,11 +65,15 @@ body,
     font-size: 48px;
     font-weight: 900;
     color: #f9faf9;
+    margin-bottom: 0;
+    padding-top: 0;
 }
 
 .first-subtext {
     font-size: 18px;
     color: #E5E7EB;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 .placeholder {
@@ -92,6 +96,8 @@ body,
     padding: 0;
     width: 100px;
     height: 30px;
+    color: #E5E7EB;
+    font-weight: bold;
 }
 
 .info {
@@ -158,8 +164,8 @@ body,
 .bottom {
     justify-content: center;
     align-items: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .bottom-container {
@@ -181,6 +187,7 @@ body,
     border-radius: 5px;
     width: 100px;
     height: 30px;
+    font-weight: bold;
 }
 
 .bottom-header {
@@ -196,4 +203,10 @@ body,
     margin-top: 0;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.footer{
+    text-align: center;
+    color: #E5E7EB;
+    padding: 20px;
 }
