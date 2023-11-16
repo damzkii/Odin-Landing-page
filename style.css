@@ -44,6 +44,7 @@ body,
 .header {
     gap: 520px;
     align-items: baseline;
+    padding-bottom: 70px;
 }
 
 .first {
@@ -52,7 +53,7 @@ body,
 }
 
 .first-container {
-    padding-bottom: 100px;
+    padding-bottom: 140px;
     width: 470px;
 }
 
